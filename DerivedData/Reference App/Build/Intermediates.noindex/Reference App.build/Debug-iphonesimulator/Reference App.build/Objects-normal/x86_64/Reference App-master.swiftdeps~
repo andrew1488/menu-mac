@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "c24a20e4550f0e829f793272fea9dc71"
+build_time: [1553606518, 325713000]
+inputs:
+  "/Users/student/Desktop/Reference-App-master/Reference App/Model/ReferenceModel.swift": [1553606517, 0]
+  "/Users/student/Desktop/Reference-App-master/Reference App/Supporting Files/AppDelegate.swift": [1552968064, 0]
+  "/Users/student/Desktop/Reference-App-master/Reference App/Controller/ReferenceTableViewController.swift": [1552968064, 0]
+  "/Users/student/Desktop/Reference-App-master/Reference App/Controller/DetailViewController.swift": [1552968064, 0]
